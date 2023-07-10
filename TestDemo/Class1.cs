@@ -4,7 +4,7 @@
 	{
 		public Class1()
 		{
-
+			System.Console.WriteLine("Ctor invoke.");
 		}
 	}
 }
